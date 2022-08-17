@@ -1,7 +1,6 @@
 const fs=require('fs');
 const notes=require('./notes.js');
 const yargs=require('yargs');
-// const chalk=require('chalk');
 
 yargs.version('1.1.0');
 
